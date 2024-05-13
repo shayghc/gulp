@@ -30,8 +30,8 @@
     "coveralls": "npm run cover && istanbul-coveralls"
   },
   "dependencies": {
-    "glob-watcher": "^5.0.0",
-    "gulp-cli": "^2.0.0",
+    "glob-watcher": "^6.0.0",
+    "gulp-cli": "^3.0.0",
     "undertaker": "^1.0.0",
     "vinyl-fs": "^3.0.0"
   },
